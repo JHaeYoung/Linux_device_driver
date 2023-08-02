@@ -1,0 +1,1 @@
+cmd_/home/go/driver/bh1705/bh1750.ko := ld -r -EL  -maarch64elf -z noexecstack --build-id=sha1  -T scripts/module.lds -o /home/go/driver/bh1705/bh1750.ko /home/go/driver/bh1705/bh1750.o /home/go/driver/bh1705/bh1750.mod.o;  true
