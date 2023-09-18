@@ -22,7 +22,7 @@ static struct i2c_adapter * bh1750_i2c_adapter = NULL;
 static struct i2c_client * bh1750_i2c_client = NULL;
 
 /* Meta Information */
-MODULE_AUTHOR("Johannes 4Linux");
+MODULE_AUTHOR("HaeYoung Jung");
 MODULE_LICENSE("GPL");
 MODULE_DESCRIPTION("A driver for reading out a bh1750 Ambient Light Sensor");
 
